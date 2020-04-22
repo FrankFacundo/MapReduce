@@ -1,0 +1,18 @@
+TMUX
+
+Ctrl + b ;
+Toggle last active pane
+
+Ctrl + b %
+Split pane vertically
+
+Ctrl + b "
+Split pane horizontally
+
+Ctrl + b {
+Move the current pane left
+
+Ctrl + b }
+Move the current pane right
+
+Ctrl + b 

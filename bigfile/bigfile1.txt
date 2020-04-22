@@ -1,0 +1,108 @@
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_16_lr_0.3_coltree_0.3_alpha_0.csv
+<p>Votre score est 0.998235841528</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_16_lr_0.3_coltree_0.5_alpha_0.csv
+<p>Votre score est 0.998368439705</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_16_lr_0.3_coltree_0.7_alpha_0.csv
+<p>Votre score est 0.998366631548</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_16_lr_0.4_coltree_0.3_alpha_0.csv
+<p>Votre score est 0.99821715724</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_16_lr_0.4_coltree_0.5_alpha_0.csv
+<p>Votre score est 0.998357590763</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_16_lr_0.4_coltree_0.7_alpha_0.csv
+<p>Votre score est 0.998363617953</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_16_lr_0.5_coltree_0.3_alpha_0.csv
+<p>Votre score est 0.998215951802</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_16_lr_0.5_coltree_0.5_alpha_0.csv
+<p>Votre score est 0.998280442733</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_16_lr_0.5_coltree_0.7_alpha_0.csv
+<p>Votre score est 0.998366028829</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_16_lr_0.7_coltree_0.3_alpha_0.csv
+<p>Votre score est 0.998179788663</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_16_lr_0.7_coltree_0.5_alpha_0.csv
+<p>Votre score est 0.99828827808</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_16_lr_0.7_coltree_0.7_alpha_0.csv
+<p>Votre score est 0.998321427624</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_4_lr_0.3_coltree_0.3_alpha_0.csv
+<p>Votre score est 0.998233430652</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_4_lr_0.3_coltree_0.5_alpha_0.csv
+<p>Votre score est 0.998262361164</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_8_lr_0.3_coltree_0.7_alpha_0.csv
+<p>Votre score est 0.998354577169</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_8_lr_0.4_coltree_0.3_alpha_0.csv
+<p>Votre score est 0.998257539412</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_8_lr_0.4_coltree_0.5_alpha_0.csv
+<p>Votre score est 0.998309373245</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_8_lr_0.4_coltree_0.7_alpha_0.csv
+<p>Votre score est 0.998346741822</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_8_lr_0.5_coltree_0.3_alpha_0.csv
+<p>Votre score est 0.998250306784</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_8_lr_0.5_coltree_0.5_alpha_0.csv
+<p>Votre score est 0.998269593792</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_8_lr_0.5_coltree_0.7_alpha_0.csv
+<p>Votre score est 0.998296113427</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_8_lr_0.7_coltree_0.3_alpha_0.csv
+<p>Votre score est 0.998197267513</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_8_lr_0.7_coltree_0.5_alpha_0.csv
+<p>Votre score est 0.998225595306</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_8_lr_0.7_coltree_0.7_alpha_0.csv
+<p>Votre score est 0.998253320379</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_4_lr_0.4_coltree_0.3_alpha_0.csv
+<p>Votre score est 0.998229211619</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_4_lr_0.4_coltree_0.5_alpha_0.csv
+<p>Votre score est 0.998214143645</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_4_lr_0.4_coltree_0.7_alpha_0.csv
+<p>Votre score est 0.998252114941</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_4_lr_0.5_coltree_0.3_alpha_0.csv
+<p>Votre score est 0.998207513736</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_4_lr_0.5_coltree_0.5_alpha_0.csv
+<p>Votre score est 0.998192445761</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_4_lr_0.5_coltree_0.7_alpha_0.csv
+<p>Votre score est 0.998214746364</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_4_lr_0.7_coltree_0.3_alpha_0.csv
+<p>Votre score est 0.998048998643</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_4_lr_0.7_coltree_0.5_alpha_0.csv
+<p>Votre score est 0.998012232785</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_4_lr_0.7_coltree_0.7_alpha_0.csv
+<p>Votre score est 0.998136995615</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_8_lr_0.3_coltree_0.3_alpha_0.csv
+<p>Votre score est 0.9982762237</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_4_lr_0.3_coltree_0.7_alpha_0.csv
+<p>Votre score est 0.998302743336</p>
+##########
+/media/frank/Docs/Escritorio/Télécom/2A/SD-Sciences_des_données/SD-TSIA-210-MachineLearning/Challenge/results/ytest/y_test_XGB_MDepth_8_lr_0.3_coltree_0.5_alpha_0.csv
+<p>Votre score est 0.998330468409</p>
